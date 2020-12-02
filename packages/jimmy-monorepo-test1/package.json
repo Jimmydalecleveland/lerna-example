@@ -1,0 +1,12 @@
+{
+  "name": "@jimmydc/monorepo-test1",
+  "version": "0.0.0",
+  "description": "Testing monorepo packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
