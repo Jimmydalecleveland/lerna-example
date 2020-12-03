@@ -1,6 +1,6 @@
 {
   "name": "@jimmydc/monorepo-test2",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Testing a second monorepo package",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jimmydc/monorepo-test1": "^0.2.0"
+    "@jimmydc/monorepo-test1": "^0.2.1"
   },
   "gitHead": "d556034dc7c820ed957a738566640d7c7a2f5745"
 }
