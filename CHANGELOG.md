@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/Jimmydalecleveland/lerna-example/compare/v1.0.0-beta.0...v1.0.0) (2020-12-03)
+
+
+### Features
+
+* what will ya do lerna? ([006aaee](https://github.com/Jimmydalecleveland/lerna-example/commit/006aaeec65cb79b6f61f2b9ed4ee248867a4f052))
+
+
+
+
+
 # [1.0.0-beta.0](https://github.com/Jimmydalecleveland/lerna-example/compare/v0.4.1...v1.0.0-beta.0) (2020-12-03)
 
 **Note:** Version bump only for package root
