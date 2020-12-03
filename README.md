@@ -17,5 +17,6 @@ This will need to be done for any future packages that need to be setup.
 
 ## Initial Publish for Scoped (@) Packages
 The first time you publish a scoped package to the public NPM registry, you must pass the `--access public` flag, because scoped packages are private by default
+This doesn't seem to work when passed to `lerna publish`, so I had to manually publish each version with `npm publish --access public`
 
 After that, you can use `lerna publish` as usual to publish and bump versions.
