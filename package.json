@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "private": true,
   "scripts": {
     "clean": "lerna clean",
     "bootstrap": "lerna bootstrap"
