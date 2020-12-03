@@ -19,7 +19,7 @@ pipelines:
           script:
             - npm install
   branches:
-    master:
+    main:
       - parallel:
         - step:
             name: Build
