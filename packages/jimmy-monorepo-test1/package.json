@@ -1,6 +1,6 @@
 {
   "name": "@jimmydc/monorepo-test1",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.4",
   "description": "Testing monorepo packages",
   "main": "index.js",
   "scripts": {
