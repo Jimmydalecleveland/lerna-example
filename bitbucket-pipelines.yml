@@ -38,5 +38,5 @@ pipelines:
           deployment: Production
           script:
             # lerna publish
-            - $NPM_TOKEN npm run publish
+            - npm run publish ${NPM_TOKEN}
 

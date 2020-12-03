@@ -20,3 +20,6 @@ The first time you publish a scoped package to the public NPM registry, you must
 This doesn't seem to work when passed to `lerna publish`, so I had to manually publish each version with `npm publish --access public`
 
 After that, you can use `lerna publish` as usual to publish and bump versions.
+
+## Conventional Commits
+No extra packages are needed outside of `lerna` to take advantage of conventional commits. The `lerna.json` file has been added to set it up to work during CI without prompts. This allows a lot of convenience with publishing because the version for all packages can be determined from their commit messages.
