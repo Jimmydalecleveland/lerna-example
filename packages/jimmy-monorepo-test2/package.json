@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@jimmydc/monorepo-test1": "^0.1.0"
-  }
+  },
+  "gitHead": "6917828c896b369fdfc02c407dfc112498b1cbf6"
 }
